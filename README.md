@@ -5,14 +5,13 @@ Team #21 (Software Comedians)
 
 Members : 
 
-Chitra M       - 20172009
+20172009       - Chitra M
 
-Mitesh Shah    - 20172010
+20172010       - Mitesh Shah
 
-Swati Bhandari - 20172013
+20172013       - Swati Bhandari 
 
-Richa Kushwaha - 20172056
-
+20172056       - Richa Kushwaha
 
 
 Code is attached as an iPython Notebook.
