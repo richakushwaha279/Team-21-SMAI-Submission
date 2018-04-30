@@ -16,4 +16,4 @@ Members :
 
 Code is attached as an iPython Notebook.
 
-Link for Presentation : https://prezi.com/view/aqphFlCoLUcdVSPDcpLF/
+Link for Presentation : https://prezi.com/p/fawmbwylttct/smai-project-final/
